@@ -1,0 +1,16 @@
+{
+  "name": "divine-portfolio",
+  "version": "1.0.0",
+  "description": "Divine Successflow - Where Divine Meets Digital",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
